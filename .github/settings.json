@@ -1,12 +1,13 @@
 {
   "repos": {
-    "description": "A Terraform module that manages the tpl_resources resources from the azurerm provider.",
+    "description": "A Terraform module that manages the core resources from the azuredevops provider.",
     "visibility": "public",
     "default_branch": "main",
     "homepage": "https://telekom-mms.github.io/terraform-template",
     "topics": [
       "terraform",
-      "azure"
+      "azuredevops",
+      "build_definition"
     ]
   }
 }
