@@ -1,6 +1,6 @@
 {
   "repos": {
-    "description": "A Terraform module that manages the core resources from the azuredevops provider.",
+    "description": "A Terraform module that manages the build resources from the azuredevops provider.",
     "visibility": "public",
     "default_branch": "main",
     "homepage": "https://telekom-mms.github.io/terraform-template",
