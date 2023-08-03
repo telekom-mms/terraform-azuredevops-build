@@ -7,7 +7,7 @@
     "topics": [
       "terraform",
       "azuredevops",
-      "build_definition"
+      "build-definition"
     ]
   }
 }
